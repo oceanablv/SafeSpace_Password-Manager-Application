@@ -6,7 +6,8 @@
 ## Dashboard (User)
 <img width="428" height="278" alt="image" src="https://github.com/user-attachments/assets/4b3830e5-b08a-409a-afa3-7ba804ee7a3c" />
 
-Welcome to the repository for SafeSpace, a comprehensive desktop application developed as a final project for my Visual Programming course. SafeSpace is a centralized system designed to manage employee data and secure password credentials within a corporate environment, featuring a robust dual-role system for administrators and standard users.
+Welcome to the repository for SafeSpace, a VB.NET & MySQL desktop app for secure password management. Admins can manage employees, accounts, and logs, while users handle their own passwords. Features include verified login, auto password generator, strength check, Excel export, and XML logs—ideal for secure, efficient data handling.
+
 
 ---
 
