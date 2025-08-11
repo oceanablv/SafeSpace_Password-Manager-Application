@@ -66,7 +66,7 @@ To set up and run this project locally, you will need:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/SlushyMint/SafeSpace_Password-Manager-Application.git
+    git clone https://github.com/oceanablv/SafeSpace_Password-Manager-Application.git
     ```
 2.  **Set up the database:**
     - Create a new database named `employee_db`.
